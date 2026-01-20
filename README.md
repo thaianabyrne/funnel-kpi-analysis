@@ -4,11 +4,10 @@
 Evaluate a user funnel (visit → signup → activate → purchase) to identify conversion drop-offs and revenue opportunities.
 
 ## Business Context
-This project simulates a Google Analytics / CRM-style funnel to demonstrate how a Business Analyst uses Excel, Power BI, and SQL to support decision-making.
+This project simulates a Google Analytics / CRM-style funnel to demonstrate how a Business Analyst uses Excel and SQL-style analysis to support decision-making.
 
 ## Tools Used
-- Excel (data cleaning, pivot tables, KPI calculations)
-- Power BI (dashboard visualization)
+- Excel (data cleaning, pivot tables, KPI calculations, funnel analysis)
 - SQL (basic queries for funnel and segmentation analysis)
 
 ## Key Metrics
@@ -28,10 +27,9 @@ This project simulates a Google Analytics / CRM-style funnel to demonstrate how 
 - Investigate mobile friction points
 
 ## Files Included
-- Raw data (Excel)
-- KPI analysis workbook
-- Power BI dashboard screenshots
-- SQL queries
+- Raw funnel event data (Excel)
+- KPI analysis and funnel metrics workbook (Excel)
+- SQL queries for funnel and segmentation analysis
 - Executive summary (PDF)
 
 ## Status
